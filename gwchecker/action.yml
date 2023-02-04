@@ -1,4 +1,6 @@
 name: 'Workflow Health Checker'
+on: 
+  workflow_dispatch
 description: 'Analyzes all of the .yaml files in the repository for segments that might cause security vulnrabilities.'
 runs:
   using: 'node12'
