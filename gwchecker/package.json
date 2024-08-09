@@ -20,7 +20,7 @@
   "dependencies": {
     "@actions/exec": "^1.0.4",
     "@actions/github": "^5.0.0",
-    "cheerio": "^1.0.0-rc.9",
+    "cheerio": "^1.0.0",
     "request": "^2.88.2",
     "sync-request": "^6.1.0",
     "yaml": "^1.10.2"
